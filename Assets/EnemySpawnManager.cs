@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemySpawnManager : MonoBehaviour
 {
-    public float spawnEnemyOverhead = 5.0f;
+    public float spawnEnemyOverhead = 6.0f;
 
     public GameObject enemy;
 
